@@ -6,8 +6,8 @@
 
 html { 
   background: url(../images/dog.jpg) no-repeat center center fixed; 
-  -webkit-background-size: auto, contain;
-  -moz-background-size: auto, contain;
-  -o-background-size: auto, contain;
-  background-size: auto, contain;
+  -webkit-background-size: contain, auto;
+  -moz-background-size: contain, auto;
+  -o-background-size: contain, auto;
+  background-size: contain, auto;
 }
